@@ -1,4 +1,4 @@
-# Second Hand Car Price Prediction
+#Car Price Prediction
 
 streamlit app link https://mohitbohra9-secondhandcarpriceprediction-ml-app-yqnycu.streamlit.app/
 
